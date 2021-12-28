@@ -1,0 +1,9 @@
+[submodule "RotateObjectDetection"]
+	path = RotateObjectDetection
+	url = ./RotateObjectDetection/
+[submodule "yolor"]
+	path = yolor
+	url = ./yolor/
+[submodule "rotated_maskrcnn"]
+	path = rotated_maskrcnn
+	url = ./rotated_maskrcnn/

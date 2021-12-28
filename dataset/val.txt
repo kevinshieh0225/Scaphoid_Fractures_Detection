@@ -1,0 +1,80 @@
+./images/Normal/03192499 L 27M AP0.bmp
+./images/Normal/10814408-OB0.bmp
+./images/Fracture/19529224-OB30.bmp
+./images/Fracture/19951874-AP0.bmp
+./images/Fracture/12695512-SC0.bmp
+./images/Normal/14962613 L 36F AP0.bmp
+./images/Normal/00515891-AP0.bmp
+./images/Fracture/20019346-OB0.bmp
+./images/Normal/07560300 R 25M AP0.bmp
+./images/Normal/00293717 L 77M AP0.bmp
+./images/Fracture/16608087-SC20.bmp
+./images/Fracture/05506977-SC0.bmp
+./images/Normal/19939694 L 56M AP0.bmp
+./images/Normal/04574217 L 76F AP0.bmp
+./images/Normal/19827614-AP0.bmp
+./images/Normal/18059482-AP0.bmp
+./images/Fracture/16133052-AP0.bmp
+./images/Fracture/12452282-AP0.bmp
+./images/Fracture/16645616-SC0.bmp
+./images/Normal/18983088-AP0.bmp
+./images/Normal/18685339-AP0.bmp
+./images/Normal/20085361 R 16F AP0.bmp
+./images/Fracture/18792759-SC20.bmp
+./images/Fracture/06348636-SC20.bmp
+./images/Fracture/01944076-AP0.bmp
+./images/Fracture/18345938-SC20.bmp
+./images/Normal/08838278-OB30.bmp
+./images/Normal/08838278 R 21M AP0.bmp
+./images/Fracture/14527846-SC0.bmp
+./images/Fracture/08092913-OB0.bmp
+./images/Fracture/08092913-SC0.bmp
+./images/Normal/19739519-AP0.bmp
+./images/Fracture/18767187-AP20.bmp
+./images/Fracture/06348636-SC0.bmp
+./images/Normal/18463692-OB0.bmp
+./images/Normal/06343144 L 64M AP0.bmp
+./images/Normal/19283388-OB30.bmp
+./images/Fracture/00454212-ROB0.bmp
+./images/Fracture/17964244-AP20.bmp
+./images/Fracture/07405761-SC0.bmp
+./images/Fracture/18389767-OB0.bmp
+./images/Fracture/14636068-OB0.bmp
+./images/Fracture/00454212-ROB20.bmp
+./images/Normal/14636068-SC0.bmp
+./images/Normal/06764191 R 44F AP0.bmp
+./images/Fracture/06348636-OB0.bmp
+./images/Fracture/07172783-SC0.bmp
+./images/Fracture/06454760-SC0.bmp
+./images/Normal/12154753-AP20.bmp
+./images/Normal/00169382 L 51F AP0.bmp
+./images/Normal/19157436-OB20.bmp
+./images/Fracture/06600631-OB30.bmp
+./images/Normal/17441223 L 27F AP0.bmp
+./images/Normal/01299357 R 80M AP0.bmp
+./images/Fracture/12695512-AP-OB0.bmp
+./images/Normal/05346297 R 24M AP0.bmp
+./images/Normal/03803282-AP0.bmp
+./images/Normal/08043699-SC20.bmp
+./images/Normal/12154753-OB60.bmp
+./images/Normal/14653976-SC20.bmp
+./images/Normal/18060182-OB0.bmp
+./images/Normal/18345938-SC0.bmp
+./images/Normal/07172783-SC20.bmp
+./images/Fracture/16127912-OB30.bmp
+./images/Normal/19256561 R 39M AP0.bmp
+./images/Normal/08187768-OB20.bmp
+./images/Normal/08890780 L 24M AP0.bmp
+./images/Fracture/08092913-AP0.bmp
+./images/Fracture/04899845-OB20.bmp
+./images/Fracture/19036529-AP0.bmp
+./images/Fracture/03803282-OB30.bmp
+./images/Normal/16828252-AP0.bmp
+./images/Fracture/00515891-SC0.bmp
+./images/Fracture/04899845-SC0.bmp
+./images/Fracture/19157436-SC0.bmp
+./images/Fracture/05506977-AP0.bmp
+./images/Normal/00230304 R 50F AP0.bmp
+./images/Fracture/18792759-AP0.bmp
+./images/Fracture/19184813-AP0.bmp
+./images/Normal/05349267 L 24M AP0.bmp
